@@ -1,5 +1,5 @@
-#Class work for WDD430
+# Class work for WDD430
 
-##Technologies Used
+## Technologies Used
 - React
 - Next.js
