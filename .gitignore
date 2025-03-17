@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+# Other school folders
+/Week1
+/Week2
+
 # testing
 /coverage
 
